@@ -32,6 +32,14 @@ c --> version number
 03 --> vbs
 ```
 
+### Project numbers
+```
+00 --> info
+01 --> PyConsole
+02 --> PyDolphyn
+03 --> Malware
+```
+
 ### Pre-relese
 - Pre-relese have number before id 
 ```
