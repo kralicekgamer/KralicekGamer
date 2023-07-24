@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hi, am Kralicek
+## Info
+- My name is KralicekGamer/Kralik
+- Im from CZ
+- I speak Czech, English, Deutch
 
-<!--
-**KralicekGamerCz/KralicekGamerCz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects info
+- My projects have a table
+```
+KralicekGamer --> Project name	 		            
+Version 1.0 --> Version 1.0 or 1.0.0	 		      
+0000100 --> id of file 			           
+©2023 by KralicekGamer --> copyright
+```
 
-Here are some ideas to get you started:
+## Id files
+- Each of my files has its own id, here is the explanation
+```
+aa bb ccc
+00 00 100
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+a --> programming language number
+b --> project number
+c --> version number
+```
+
+### Progaming languages number
+```
+00 --> markdown
+01 --> python
+02 --> html
+03 --> vbs
+```
+
+### Pre-relese
+- Pre-relese have number before id 
+```
+xxx-aa bb ccc
+100-00 00 100
+
+x ---> pre-relese number
+```
