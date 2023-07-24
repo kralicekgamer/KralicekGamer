@@ -48,3 +48,6 @@ xxx-aa bb ccc
 
 x ---> pre-relese number
 ```
+
+## Contact
+- Email - kralicekgamer@gmail.com
