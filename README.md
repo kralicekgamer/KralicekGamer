@@ -34,10 +34,11 @@ c --> version number
 
 ### Project numbers
 ```
-00 --> info
+00 --> Info
 01 --> PyConsole
 02 --> PyDolphyn
 03 --> Malware
+04 --> PyGame
 ```
 
 ### Pre-relese
