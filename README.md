@@ -3,6 +3,7 @@
 - My name is KralicekGamer/Kralik
 - Im from CZ
 - I speak Czech, English, Deutch
+- My web: https://nejsem.online/
 
 ## Projects info
 - My projects have a table
