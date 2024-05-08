@@ -1,8 +1,9 @@
 # Hi, am Kralicek
 ## Info
-- My name is KralicekGamer/Kralik
+- My name is KralicekGamer/Kralyk
 - Im from CZ
 - I speak Czech, English, Deutch
+- My website kralyk.dev
 
 ## Projects info
 - My projects have a table
