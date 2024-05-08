@@ -3,7 +3,7 @@
 - My name is KralicekGamer/Kralyk
 - Im from CZ
 - I speak Czech, English, Deutch
-- My website (kralyk.dev)[https://kralyk.dev]
+- My website https://kralyk.dev
 
 ## Projects info
 - My projects have a table
