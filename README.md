@@ -5,13 +5,10 @@
 - I speak Czech, English, Deutch
 - My website https://kralyk.dev
 
-## Projects info
-- My projects have a table
-```
-KralicekGamer --> Project name	 		            
-Version 1.0 --> Version 1.0 or 1.0.0	 		                 
-©2024 by KralicekGamer --> copyright
-```
+## Skills
+- HTML, CSS
+- Python
+- C# - learning
 
 ## Contact
 - Email - kralicekgamer@gmail.com
