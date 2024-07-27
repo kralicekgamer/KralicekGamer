@@ -2,7 +2,7 @@
 ## Info
 - My name is KralicekGamer/Kralyk
 - Im from CZ
-- I speak Czech, English, Deutch
+- I speak Czech, English, German
 - My website https://kralyk.dev
 
 ## Skills
