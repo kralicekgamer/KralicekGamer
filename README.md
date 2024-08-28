@@ -11,7 +11,7 @@
 
 ## Stats
 [![Global](https://github-readme-stats.vercel.app/api?username=kralicekgamer&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kralicekgamer&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kralicekgamer&theme=dark&layout=compact)
 
 ## Contact
 - Email - kralicekgamer@gmail.com
