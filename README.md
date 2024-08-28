@@ -1,5 +1,5 @@
 # Hi, am Matěj Adamec
-## Info
+## About me
 - My name is Matěj Adamec
 - You can find me on internet as KralicekGamer/Kralyk
 - Im from CZ
@@ -7,9 +7,7 @@
 - My website https://kralyk.dev
 
 ## Skills
-- HTML, CSS
-- Python
-- C# - learning
+[![My Skills](https://skillicons.dev/icons?i=arduino,cs,cloudflare,css,discord,html,linux,md,pycharm,py,raspberrypi,vscode,windows)](https://skillicons.dev)
 
 ## Contact
 - Email - kralicekgamer@gmail.com
