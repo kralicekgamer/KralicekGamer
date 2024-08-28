@@ -12,6 +12,8 @@
 ## Stats
 [![Global](https://github-readme-stats.vercel.app/api?username=kralicekgamer&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kralicekgamer&theme=dark&layout=compact&hide=perl)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kralicekgamer)](https://github.com/anuraghazra/github-readme-stats)
