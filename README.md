@@ -7,7 +7,6 @@
 - My website https://kralyk.dev
 
 ## Skills
-### **Languages**
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,py,md,arduino,raspberrypi,linux,windows,pycharm,py,vscode,cloudflare,discord)](https://skillicons.dev)
 
 ## Contact
