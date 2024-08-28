@@ -7,7 +7,10 @@
 - My website https://kralyk.dev
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css,py,md,arduino,raspberrypi,linux,windows,pycharm,py,vscode,cloudflare,discord)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cs,html,css,py,md,arduino,raspberrypi,linux,windows,pycharm,py,vscode,cloudflare,discord)](https://skillicons.dev)
+
+## Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=kralicekgamer)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 - Email - kralicekgamer@gmail.com
