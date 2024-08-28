@@ -2,7 +2,7 @@
 ## About me
 - My name is Matěj Adamec
 - You can find me on internet as KralicekGamer/Kralyk
-- Im from CZ
+- Im from CZ <p>&#x1f1e8;&#x1f1ff;</p>
 - I speak Czech, English, German
 - My website https://kralyk.dev
 
