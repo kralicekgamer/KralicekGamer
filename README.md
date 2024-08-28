@@ -10,7 +10,8 @@
 [![Skills](https://skillicons.dev/icons?i=cs,html,css,py,md,arduino,raspberrypi,linux,windows,pycharm,py,vscode,cloudflare,discord)](https://skillicons.dev)
 
 ## Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=kralicekgamer)](https://github.com/anuraghazra/github-readme-stats)
+[![Global](https://github-readme-stats.vercel.app/api?username=kralicekgamer&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kralicekgamer&hide_progress=true&theme=dark)
 
 ## Contact
 - Email - kralicekgamer@gmail.com
