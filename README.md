@@ -7,7 +7,7 @@
 - My website https://kralyk.dev
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=arduino,cs,cloudflare,css,discord,html,linux,md,pycharm,py,raspberrypi,vscode,windows)](https://skillicons.dev)
+[(https://skillicons.dev/icons?i=arduino,cs,cloudflare,css,discord,html,linux,md,pycharm,py,raspberrypi,vscode,windows)](https://skillicons.dev)
 
 ## Contact
 - Email - kralicekgamer@gmail.com
