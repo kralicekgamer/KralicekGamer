@@ -14,5 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kralicekgamer&theme=dark&layout=compact&hide=perl)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kralicekgamer)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact
 - Email - kralicekgamer@gmail.com
