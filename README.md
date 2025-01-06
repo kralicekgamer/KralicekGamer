@@ -1,5 +1,6 @@
 # Hi, I am Matěj Adamec
 ## About me
+- Developer in python and web developer 
 - My name is Matěj Adamec
 - You can find me on the internet as KralicekGamer/Kralyk
 - I am from CZ
