@@ -1,11 +1,6 @@
 # Hi, I am Matěj Adamec
 ## About me
-- Developer in python and web developer 
-- My name is Matěj Adamec
-- You can find me on the internet as KralicekGamer/Kralyk
-- I am from CZ
-- I speak Czech, English, German
-- My website https://kralyk.dev
+My name is **Matěj Adamec**, also known online as **KralicekGamer** or Kralyk. I am from the **Czech Republic**. I develop in **Python** and am currently learning C#. I also create websites using **HTML and CSS**.
 
 ## Skills
 [![Skills](https://skillicons.dev/icons?i=cs,html,css,py,md,arduino,raspberrypi,linux,windows,pycharm,vscode)](https://skillicons.dev)
