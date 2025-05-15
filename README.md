@@ -8,6 +8,7 @@ I'm a developer from the **Czech Republic**, also known online as **KralicekGame
 ## Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=kralicekgamer&show_icons=true&theme=dark" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kralicekgamer&theme=dark&layout=compact&hide=perl" />
 </div>
 
