@@ -7,7 +7,7 @@ I'm a developer from the **Czech Republic**, also known online as **KralicekGame
 [![Skills](https://skillicons.dev/icons?i=py,html,css,sass,bootstrap,md,cs,rust,vscode)](https://skillicons.dev)
 
 ### Tools and other skils
-[![Skills](https://skillicons.dev/icons?i=linux,vscode,obsidian,raspberry,arduino,cloudflare,tor)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,docker,vscode,obsidian,raspberrypi,arduino,cloudflare,tor)](https://skillicons.dev)
 
 ## Stats
 <div>
