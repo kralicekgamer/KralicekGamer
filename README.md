@@ -10,11 +10,10 @@ I'm a developer from the **Czech Republic**, also known online as **KralicekGame
 [![Skills](https://skillicons.dev/icons?i=linux,docker,vscode,git,github,obsidian,raspberrypi,arduino,cloudflare,tor)](https://skillicons.dev)
 
 ## Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kralicekgamer&show_icons=true&theme=dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kralicekgamer&theme=dark&layout=compact&hide=perl" />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kralicekgamer&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kralicekgamer&theme=dark&layout=compact&hide=perl)
+
 
 ## Contact
 - Email: kralyk@kralyk.dev
