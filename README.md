@@ -10,7 +10,8 @@ I'm a developer from the **Czech Republic**, also known online as **KralicekGame
 [![Skills](https://skillicons.dev/icons?i=linux,docker,vscode,git,github,obsidian,raspberrypi,arduino,cloudflare,tor)](https://skillicons.dev)
 
 ### Certificates
-<iframe src="](https://github.com/user-attachments/files/28808575/CCNA-_Introduction_to_Networks_certificate_kralyk-kralyk-dev_63bc75ad-3047-43b1-948c-c20bc98ca285.pd)" width="100%" height="600px">
+<iframe src="https://github.com/user-attachments/files/28808575/CCNA-_Introduction_to_Networks_certificate_kralyk-kralyk-dev_63bc75ad-3047-43b1-948c-c20bc98ca285.pdf" width="100%" height="600px">
+</iframe>
 
 ## Contact
 - Email: kralyk@kralyk.dev
