@@ -1,6 +1,8 @@
 # Hi, I'm Matěj Adamec
 
-I'm a developer from the **Czech Republic**, also known online as **KralicekGamer** or **Kralyk**. I primarily work with **Python** and web technologies (**HTML, CSS, Sass, Bootstrap**). I love networking and working with linux servers.
+I'm a developer from the **Czech Republic**, known online as **KralicekGamer** or **Kralyk**.  
+I primarily work with **Python** and have experience with web technologies (**HTML, CSS, JS**).  
+I'm passionate about **networking**, **ethical hacking**, and **Linux**, and I enjoy working with **server infrastructure**.
 
 ## Skills
 ### Languages
