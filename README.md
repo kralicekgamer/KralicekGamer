@@ -1,8 +1,21 @@
 # Hi, I'm Matěj Adamec
 
-I'm a developer from the **Czech Republic**, known online as **KralicekGamer** or **Kralyk**.  
-I primarily work with **Python** and have experience with web technologies (**HTML, CSS, JS**).  
-I'm passionate about **networking**, **ethical hacking**, and **Linux**, and I enjoy working with **server infrastructure**.
+I’m primarily a Python developer, working on everything from system tools to REST APIs, TUI applications, automation scripts, and embedded projects.
+I also know the basics of C#, and while I can build websites using HTML, CSS, and JavaScript, I focus mainly on backend and system-level development.
+
+My strongest interests lie in ethical hacking, cybersecurity, and computer networking.
+I’m deeply passionate about Linux, open‑source technologies, and server infrastructure.
+
+I have solid experience with:
+- Python programming
+- Linux server administration
+- Virtualization (Proxmox, partial VMware)
+- Containerization using Docker
+- Networking (advanced routing, VLANs, VPNs, firewall rules, packet analysis)
+
+Beyond software, I enjoy working with Raspberry Pi, Arduino, and ESP32, building hardware projects and experimenting with embedded systems.
+
+In my free time, I enjoy walking, playing video games, and listening to music.
 
 ## Skills
 ### Languages
