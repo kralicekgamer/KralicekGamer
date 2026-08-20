@@ -15,8 +15,6 @@ I have solid experience with:
 
 Beyond software, I enjoy working with Raspberry Pi, Arduino, and ESP32, building hardware projects and experimenting with embedded systems.
 
-In my free time, I enjoy walking, playing video games, and listening to music.
-
 ## Skills
 ### Languages
 [![Skills](https://skillicons.dev/icons?i=py,html,css,sass,bootstrap,md)](https://skillicons.dev)
